@@ -14,7 +14,7 @@
     | Day 1 | Binary Search | :heavy_check_mark: |
     | Day 2 | Two Pointers | :heavy_check_mark: |
     | Day 3 | Two Pointers | :heavy_check_mark: |
-    | Day 4 | Two Pointers | :heavy_check_mark: :x: |
+    | Day 4 | Two Pointers | :heavy_check_mark: |
     | Day 5 | Two Pointers | :heavy_check_mark: :x: |
     | Day 6 | Sliding Window | :heavy_check_mark: :x: |
     | Day 7 | Breadth-First Search / Depth-First Search | :heavy_check_mark: :x: |
