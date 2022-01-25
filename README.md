@@ -18,7 +18,7 @@
     | Day 5 | Two Pointers | :heavy_check_mark: |
     | Day 6 | Sliding Window | :heavy_check_mark: |
     | Day 7 | Breadth-First Search / Depth-First Search | :heavy_check_mark: |
-    | Day 8 | Breadth-First Search / Depth-First Search | :heavy_check_mark: :x: |
+    | Day 8 | Breadth-First Search / Depth-First Search | :heavy_check_mark: |
     | Day 9 | Breadth-First Search / Depth-First Search | :heavy_check_mark: :x: |
     | Day 10| Recursion / Backtracking | :heavy_check_mark: :x: |
     | Day 11| Recursion / Backtracking | :heavy_check_mark: :x: |
