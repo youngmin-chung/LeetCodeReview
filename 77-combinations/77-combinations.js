@@ -8,8 +8,8 @@ var combine = function(n, k) {
    
     var backtrack = function(start, combi){
         if(combi.length == k) {
-            let copyCombi = Object.assign([], combi);;
-            
+            // shallw copy
+            let copyCombi = Object.assign([], combi);;            
             tmp.push(copyCombi)
             return
         }
@@ -19,10 +19,10 @@ var combine = function(n, k) {
             backtrack(i+1, combi);
             combi.pop();
         }
-        } 
-        backtrack(1,[]);
-        return tmp
-    }
+    } 
+    backtrack(1,[]);
+    return tmp
+}
             
 
     
