@@ -21,7 +21,7 @@
     | Day 8 | Breadth-First Search / Depth-First Search | :heavy_check_mark: |
     | Day 9 | Breadth-First Search / Depth-First Search | :heavy_check_mark: |
     | Day 10| Recursion / Backtracking | :heavy_check_mark: |
-    | Day 11| Recursion / Backtracking | :heavy_check_mark: :x: |
+    | Day 11| Recursion / Backtracking | :heavy_check_mark: |
     | Day 12| Dynamic Programming | :heavy_check_mark: :x: |
     | Day 13| Bit Manipulation | :heavy_check_mark: :x: |
     | Day 14| Bit Manipulation | :heavy_check_mark: :x: |
