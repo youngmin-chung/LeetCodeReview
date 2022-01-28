@@ -28,7 +28,7 @@
   </details>
   
   
-  __Study Plan #02 - Data Structure 1__ : In mathematics and computer science, an algorithm is defined as a process or set of rules to be followed in calculations or other problem-solving operations. This practical method is often used in calculations, data processing, and automatic reasoning because it contains clear and concise instructions and can be executed in limited time and space complexities.
+  __Study Plan #02 - Data Structure 1__ : In computer science, a data structure is a way to store and organize data. During the computer programming process, identifying and using the appropriate data structure is an important task as it can improve the overall efficiency of the algorithm. In large-scale systems, choosing the most suitable data structure directly impacts the difficulty of program design and the final quality and performance.
 
   <details>
 
