@@ -2,7 +2,7 @@
 ### :computer: BE a growing developer who never stop learning everyday in 2022.
 
 * How? break down the problems from LeetCode!!!
-
+<!-- 
   __Study Plan #01 - Algorithm 1__ : In mathematics and computer science, an algorithm is defined as a process or set of rules to be followed in calculations or other problem-solving operations. This practical method is often used in calculations, data processing, and automatic reasoning because it contains clear and concise instructions and can be executed in limited time and space complexities.
 
   <details>
@@ -52,7 +52,7 @@
     | Day 14| Tree | :heavy_check_mark: :x: |
   </details>
   
-  
+   -->
   
   
 - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
