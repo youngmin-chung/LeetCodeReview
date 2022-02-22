@@ -8,11 +8,7 @@ var titleToNumber = function(columnTitle) {
     let res = 0;
     let incl = 0;
     for(let i = arr.length - 1; i >= 0; i-- ){
-        console.log(Math.pow(26, incl))
-        console.log(arr[i])
         res += calcColumn(arr[i]) * Math.pow(26, incl);
-        
-        console.log(res);
         ++incl;
     }
     
