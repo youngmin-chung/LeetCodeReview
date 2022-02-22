@@ -6,15 +6,20 @@ var titleToNumber = function(columnTitle) {
     const arr = [...columnTitle]
     console.log(arr)
     let res = 0;
-    let incl = 0;
-    for(let i = arr.length - 1; i >= 0; i-- ){
-        res += calcColumn(arr[i]) * Math.pow(26, incl);
-        ++incl;
+    let val = 0;
+    for(let i = 0; i < arr.length; i++ ){
+        val = getNum(columnTitle[arr.length - 1 - i]);
+        res += val * Math.pow(26, i);
+       
     }
     
     return res
 };
 
+var getNum = function(char){
+    let start = 'A'.charCodeAt(0) - 1;
+    return char.charCodeAt(0) - start;
+}
 
 var calcColumn = function (col) {
     let val = 0
